@@ -6,5 +6,7 @@ Ein paar hilfreiche Snippets, für die jungen Devs unter uns ^^
 3) Es sind Snippets, also Ausschnitte, und keine fertigen Scripts.
 4) Die Snippets sollen für Denkanstöße sorgen.
 
+![Visualization of the codebase](./diagram.svg)
+
 Bei Fragen, meldet euch per PN^^
 Discord: Schnuble#1223
